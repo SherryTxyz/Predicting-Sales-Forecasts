@@ -11,3 +11,7 @@ For sales managers, producing sales forecasts is the second most difficult part 
 Forecasts are a crucial part of business planning. Timely, accurate predictions help companies with goal-setting, hiring, budgeting, and other activities that affect cash flow and the bottom line. The impact of poor projections bears negative financial consequences, particularly for publicly traded companies, since stock values rise and and fall in correlation with hit or miss scenarios. 
 
 This project aims to use data science methods on five years of a company's sales data to build a model for predicting which future deals with unknown outcomes would result in either won or lost deals.
+
+Table of Contents
+
+1. Summary Report 
