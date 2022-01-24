@@ -18,4 +18,4 @@ Table of Contents
 
 2. Presentation https://youtu.be/GxTNxt9bO7Q
 
-3. Notebook: Sales Forecast Prediction Modeling 
+3. Notebook: Sales Forecast Prediction Modeling
