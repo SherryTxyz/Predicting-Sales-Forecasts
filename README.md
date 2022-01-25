@@ -14,7 +14,7 @@ This project aims to use data science methods on five years of a company's sales
 
 Table of Contents
 
-1. **Summary Report** https://github.com/SherryTxyz/Predicting-Sales-Forecasts/blob/main/Capstone%202%20Summary%20Report_%20MIS%20Sales%20Forecast%20-%20Google%20Docs_Redacted.pdf
+1. **Summary Report** https://github.com/SherryTxyz/Predicting-Sales-Forecasts/blob/main/Summary%20Report_%20MIS%20Sales%20Forecast%20_Redacted.pdf
 
 2. **Presentation** https://youtu.be/ymVBw_ea0u8
 
