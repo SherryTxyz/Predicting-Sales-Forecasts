@@ -16,7 +16,7 @@ Table of Contents
 
 1. **Summary Report** https://github.com/SherryTxyz/Predicting-Sales-Forecasts/blob/main/Capstone%202%20Summary%20Report_%20MIS%20Sales%20Forecast%20-%20Google%20Docs_Redacted.pdf
 
-2. **Presentation** https://youtu.be/GxTNxt9bO7Q
+2. **Presentation** https://youtu.be/ymVBw_ea0u8
 
 3. **Notebook: Sales Forecast Prediction Modeling**  https://github.com/SherryTxyz/Predicting-Sales-Forecasts/blob/751832e05fb2bc80b03892c0ae9089e35e71e1da/Sales%20Prediction%20Capstone%20Modeling%20Even%20Sampling-Redaction.ipynb
 
