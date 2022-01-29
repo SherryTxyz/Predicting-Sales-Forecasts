@@ -18,6 +18,5 @@ Table of Contents
 
 2. **Presentation** https://youtu.be/ymVBw_ea0u8
 
-3. **Notebook: Sales Forecast Prediction Modeling** [(https://github.com/SherryTxyz/Predicting-Sales-Forecasts/blob/main/Sales%20Prediction%20%20Modeling%20Even%20Sampling.ipynb)] https://github.com/SherryTxyz/Predicting-Sales-Forecasts/blob/main/Sales%20Prediction%20%20Modeling%20Even%20Sampling.ipynb
-
+3. **Notebook: Sales Forecast Prediction Modeling** [(https://github.com/SherryTxyz/Predicting-Sales-Forecasts/blob/main/Sales%20Prediction%20%20Modeling%20Even%20Sampling.ipynb)]
 Note: Data Wrangling and EDA Notebooks excluded to protect private, confidential data.
